@@ -1,3 +1,5 @@
+## 2025.8.30更新：该项目为本人撰写的本科毕业论文，论文全文已存放于本仓库。
+
 # SFLR
 ## Description
 * Report "Pansharpening With Spatial Framelet Consistency and Spectral Gradient Low Rank Priors", and corresponding matlab code.
